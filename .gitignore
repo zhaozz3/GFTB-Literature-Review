@@ -7,3 +7,6 @@ tmp_*.py
 *.ps1
 # Project Context.md
 *.pdf
+!CTR/*.pdf
+!Prompt_Optimization/*.pdf
+!IS_Business/*.pdf
