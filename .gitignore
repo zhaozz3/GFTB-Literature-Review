@@ -1,0 +1,9 @@
+﻿# Only upload the three literature folders for now.
+scripts/
+tmp_edge_profile/
+debug.log
+tmp_*.py
+*.png
+*.ps1
+# Project Context.md
+*.pdf
